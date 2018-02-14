@@ -1,0 +1,25 @@
+{
+  "name": "firsttests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vojoup/first_testing.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Vojtech Oupicky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vojoup/first_testing/issues"
+  },
+  "homepage": "https://github.com/vojoup/first_testing#readme",
+  "dependencies": {
+    "jest": "^22.3.0"
+  }
+}
